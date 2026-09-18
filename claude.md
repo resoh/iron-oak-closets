@@ -52,6 +52,29 @@ $$\text{Linear Foot Retail Price} = \frac{\text{Direct Material Cost/ft} + \text
 
 ---
 
+## Premium Accessories & Upgrades (Tier 3 Upsell)
+
+* **Positioning:** High-margin, sales-floor upsell layered onto a Tier 3 Master Suite quote. Priced and sold as discrete line items, not baked into the linear-foot rate.
+* **Sourcing Model:** Fulfilled through certified third-party safe/vault manufacturers (e.g., Liberty Safe, AMSEC) rather than in-house fabrication — Iron & Oak handles carpentry integration and install; the manufacturer's own warranty covers the unit itself.
+
+### Accessory Catalog
+
+| Accessory | Target Retail Price | Est. Install Time | Notes |
+| :--- | :--- | :--- | :--- |
+| **Concealed Wall Safe** | $600 – $1,800 | 1.5 – 2.0 Hours | Recessed between studs, hidden behind a hinged Tier 3 panel or false shelf. |
+| **In-Floor / Base Vault** | $800 – $2,500 | 2.0 – 3.0 Hours | Set into Tier 3 base cabinetry footprint; requires sub-floor access assessment. |
+| **Gun Safe / Vault Cabinet** | $1,200 – $4,000+ | 2.5 – 4.0 Hours | Bolted per manufacturer spec to studs and subfloor; sized to fit inside a dedicated Tier 3 bay. |
+| **Velvet-Lined Jewelry Drawer** | $250 – $600 | 0.5 Hours | Soft-close, felt/velvet insert, add-on to any Tier 3 drawer bank. |
+| **Pull-Down Valet Rod** | $75 – $150 | 0.25 Hours | Tier 2/3 compatible, snaps onto standard or notched rail. |
+| **Motion-Sensor LED Lighting Kit** | $150 – $400 | 1.0 Hour | Puck or linear LED strip, battery or hardwired to nearest outlet. |
+
+### Liability & Compliance Protocol
+* **Not Covered by Structural Warranty:** Safes and vaults carry the manufacturer's own warranty; Iron & Oak's Lifetime Structural Guarantee covers the surrounding closet framing only, not the safe mechanism, lock, or fire/burglary rating.
+* **Gun Safe Compliance:** Installer confirms state/local child-access and storage law requirements with the client before install; safe must be bolted per manufacturer spec (floor and/or wall anchoring) as a condition of sale.
+* **Sales Script Cue:** Position as *"We build the fortress around it — the safe itself comes from a certified manufacturer with its own warranty, so you get bank-grade security backed by a bank-grade brand."*
+
+---
+
 ## White-Glove Reset Concierge Integration
 
 ### Package Breakdown
