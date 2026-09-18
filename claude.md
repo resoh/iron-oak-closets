@@ -15,6 +15,7 @@
 * **Tier 1 (Heavy-Duty Iron Rod):** 
   * *Material:* 1-inch to 1.25-inch Schedule 40 black iron pipe or galvanized steel.
   * *Sourcing:* Direct commercial accounts with industrial distributors (e.g., Ferguson, McMaster-Carr) or regional steel service centers. Pre-cut/threaded in 10-foot lengths to eliminate job-site cutting.
+  * *Surface Finish:* Clear satin spray lacquer / water-based polyurethane clear coat applied to each pre-cut length during prep (mill oil wiped off first). Smooths the rough mill finish for hanger glide, preserves the raw-iron look, and reduces fabric ink-transfer. Adds negligible cost (a few cents–low dollars/ft) and no per-job labor — batched into the existing pre-cut/threading step. **Cosmetic only, not covered by the Lifetime Structural Warranty** — the finish may wear thin at the hanger-contact band over years of use; disclosed to clients at time of sale.
   * *Anchoring:* Floor/wall flanges secured to studs via 1/4" x 2.5" structural lag screws.
 * **Tier 2 (The Utility Stack):**
   * *Material:* Powder-coated steel hang rails, vertical standards, adjustable bracket arms, and structural composite shelving.
