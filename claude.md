@@ -1,5 +1,7 @@
 # Iron & Oak Closets — System Architecture & Operational Playbook
 
+> **Status: Concept draft.** Everything below — hardware specs, the universal mounting system, pricing formulas, and margins — is a starting point for partner discussion, not a finalized design. Treat specific numbers and mechanisms as illustrative until validated against real vendor quotes, prototypes, and installer time studies.
+
 ## Executive Summary & Core Concept
 * **High-Concept Pitch:** Modular, structural closet installations ranging from industrial-strength basic hanging systems to luxury, fully customized storage suites, paired with an optional full-service concierge wardrobe reset.
 * **Core Innovation:** Standardized structural hardware across all tiers anchored by an ultra-heavy-duty wall-mounting system rated for 300+ lbs, enabling seamless client upgrades from Tier 1 to Tier 3 over time without wall damage.
