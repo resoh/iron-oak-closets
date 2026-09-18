@@ -36,6 +36,20 @@ code {
   color: var(--oak-light);
 }
 
+/* Concept banner */
+.concept-banner {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--oak);
+  color: var(--charcoal);
+  text-align: center;
+  font-weight: 700;
+  font-size: 0.82rem;
+  letter-spacing: 0.02em;
+  padding: 10px 16px;
+}
+
 /* Nav */
 .nav {
   display: flex;
