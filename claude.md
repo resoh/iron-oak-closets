@@ -118,7 +118,7 @@ $$\text{Linear Foot Retail Price} = \frac{\text{Direct Material Cost/ft} + \text
 ## Marketing, Sales Scripts & B2B Partnerships
 
 ### Marketing Hooks & Messaging
-* **The "Ironclad 500" Hook:** Video of installer performing chin-ups on a Tier 1 rod, followed by hanging 500 lbs of weight plates/engine blocks. *Tagline: "If your wardrobe can break our closet, we’ll replace it for free and buy you a new wardrobe."*
+* **The "Ironclad 500" Hook:** Video of installer performing chin-ups on a Tier 1 rod, followed by hanging 500 lbs of weight plates/engine blocks. *Tagline: "Built to outlast everything you own."*
 * **Direct-to-Consumer Meta Ad Copy (White-Glove Focus):**
   > **Headline:** We Build Your Dream Closet. We Even Hang Your Clothes.  
   > **Body:** Upgrading your closet usually means living out of laundry baskets for a week. Not with Iron & Oak. Our White-Glove Service packs down your old space, installs heavy-duty steel frame suites, and re-hangs your color-coded wardrobe on matching velvet hangers. You don't touch a single hanger. Tap below to build your instant custom setup in 60 seconds.
