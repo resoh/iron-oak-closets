@@ -22,6 +22,7 @@
 * **Tier 2 (The Utility Stack):**
   * *Material:* Powder-coated steel hang rails, vertical standards, adjustable bracket arms, and structural composite shelving.
   * *Sourcing:* Commercial OEM storage suppliers (e.g., Schulte, ClosetMaid Professional, Knape & Vogt) at 40–50% off retail.
+  * *Wear-Point Hardware:* Bracket-to-standard clip points spec'd with nylon/Delrin bushings (same OEM part family, no cost premium over bare-metal clips — e.g., ClosetMaid ShelfTrack-style hardware) rather than steel-on-steel contact. Powder coat reliably chips through at repeated-adjustment contact points; the bushing prevents metal-on-metal wear at the exact spot it would otherwise happen.
 * **Tier 3 (The Master Suite):**
   * *Substrates:* 3/4" Thermally Fused Laminate (TFL) over industrial-grade MDF (80% of builds to eliminate on-site painting/finishing), Baltic Birch, or wood veneer for stained custom units.
   * *Sourcing:* 4'x8' sheets via regional architectural panel suppliers.
@@ -142,4 +143,5 @@ $$\text{Linear Foot Retail Price} = \frac{\text{Direct Material Cost/ft} + \text
 * **Lifetime Structural Guarantee:** Covers wall anchoring integrity, steel pipe failure, standard track sagging, and structural joinery for homeownership duration.
 * **5-Year Mechanical Warranty:** Covers soft-close drawer slides, hinges, and edge-banding.
 * **Weight Limits:** 200 lbs/linear foot for Tier 1; 100 lbs/linear foot for Tiers 2 & 3.
+* **Coating Wear Exclusion:** Powder-coat or lacquer wear at moving contact points (bracket clips, hanger-contact bands) is cosmetic only and excluded from the Lifetime Structural Guarantee — the underlying steel's load rating is unaffected by finish wear at a joint. Field techs carry a touch-up powder-coat pen for warranty-visit spot repair.
 
